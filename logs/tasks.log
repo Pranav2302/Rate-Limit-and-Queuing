@@ -1,0 +1,6 @@
+{"level":"info","message":"Master 12888 is running","timestamp":"2024-10-25T17:33:06.328Z"}
+{"level":"info","message":"Worker 7336 started on port 3000","timestamp":"2024-10-25T17:33:07.114Z"}
+{"level":"info","message":"Worker 17480 started on port 3000","timestamp":"2024-10-25T17:33:07.425Z"}
+{"level":"info","message":"Master 13716 is running","timestamp":"2024-10-25T17:35:21.699Z"}
+{"level":"info","message":"Worker 19596 started on port 3000","timestamp":"2024-10-25T17:35:22.450Z"}
+{"level":"info","message":"Worker 18248 started on port 3000","timestamp":"2024-10-25T17:35:22.785Z"}

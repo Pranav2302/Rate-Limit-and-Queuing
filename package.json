@@ -1,0 +1,20 @@
+{
+  "name": "task-rate-limit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bull": "^4.16.3",
+    "cluster": "^0.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "ioredis": "^5.4.1",
+    "redis": "^4.6.10",
+    "winston": "^3.15.0"
+  },
+  "author": "Pranav kamble",
+  "license": "ISC",
+  "description": ""
+}
